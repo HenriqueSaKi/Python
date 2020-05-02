@@ -7,6 +7,6 @@ meses = (Idade%365)/30
 dias = ((Idade%365)%30)
 
 
-print ("%i" %(anos), "ano (s)")
+print ("%i" %(anos), "ano(s)")
 print ("%i" %(meses), "mes(es)")
 print ("%i" %(dias), "dia(s)")
